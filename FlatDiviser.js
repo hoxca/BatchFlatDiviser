@@ -122,8 +122,8 @@ function FlatImageDiviserEngine()
 {
 
    this.inputFiles = new Array;
-   this.syntheticFlatImageName = "/Users/hugh/projects/astro/PixInsight/BatchFlatDiviser/img/rbi/RBI_ONLY_L.xisf";
-   this.flatMaskImageName = "/Users/hugh/projects/astro/PixInsight/BatchFlatDiviser/img/rbi/RBI_MASK.xisf";
+   this.syntheticFlatImageName = "";
+   this.flatMaskImageName = "";
    this.syntheticFlatImageWindow = null;
    this.outputDirectory = "";
    this.outputPrefix = "";
